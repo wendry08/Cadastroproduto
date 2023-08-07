@@ -1,0 +1,11 @@
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.csproj.AssemblyReference.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro_atividade.Form1.resources
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro_atividade.Properties.Resources.resources
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.csproj.GenerateResource.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\bin\Debug\Cadastro atividade.exe.config
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\bin\Debug\Cadastro atividade.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\bin\Debug\Cadastro atividade.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Cadastro atividade\Cadastro atividade\obj\Debug\Cadastro atividade.pdb
